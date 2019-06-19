@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "179111757335",
+    "firebase_url": "https://shoppinglist-f3988.firebaseio.com",
+    "project_id": "shoppinglist-f3988",
+    "storage_bucket": "shoppinglist-f3988.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:179111757335:android:0e5c5b806a8f78a6",
+        "android_client_info": {
+          "package_name": "com.calmon.Emilist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "179111757335-1tajb2a2gkchpddf0i90tmftkg760gvg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCKeHy0jmHrDCMp9koiWIu7DzjRkFhvYg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "179111757335-1tajb2a2gkchpddf0i90tmftkg760gvg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
