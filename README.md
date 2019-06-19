@@ -1,6 +1,6 @@
 # Emilist
 
-My first Flutter project using Firebase as databse and for notifications.
+Emilist is a shared shopping list app.
 
 ## Getting Started
 
