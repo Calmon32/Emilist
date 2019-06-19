@@ -1,6 +1,6 @@
-# baseproj
+# Emilist
 
-A new Flutter project.
+My first Flutter project using Firebase as databse and for notifications.
 
 ## Getting Started
 
