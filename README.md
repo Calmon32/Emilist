@@ -2,4 +2,4 @@
 
 Emilist is a shared shopping list app.
 
-![Screenshot 1 of the app](pics/Screenshot_1.jpg)![Screenshot 2 of the app](pics/Screenshot_2.jpg)![Screenshot 3 of the app](pics/Screenshot_3.jpg)
+<img src="pics/Screenshot_1.jpg" width="250"> <img src="pics/Screenshot_2.jpg" width="250"> <img src="pics/Screenshot_3.jpg" width="250">
